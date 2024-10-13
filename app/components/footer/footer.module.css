@@ -1,0 +1,26 @@
+.footer{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(86, 94, 75);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.create {
+    display: inline;
+}
+.info {
+    display: inline;
+    position: absolute;
+    right: 10px;
+}
+.rights {
+    text-align: center;
+}
+@media (max-width : 700px){
+    .create {
+        font-size: small;
+    }
+    .info {
+        font-size: small;
+    }
+}

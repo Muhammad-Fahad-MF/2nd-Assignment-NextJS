@@ -1,0 +1,10 @@
+.anchor {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: larger;
+    margin-top: 10px;
+    font-weight: bolder;
+    background-color: rgb(83, 78, 78);
+    height: 50px;
+    align-items: center;
+}
