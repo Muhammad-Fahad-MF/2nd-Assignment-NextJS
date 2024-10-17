@@ -1,4 +1,4 @@
-import styles from "./page.module.css";
+
 import React from 'react'
 import Header from "./components/header/header";
 import Banner from './components/banner/banner';
